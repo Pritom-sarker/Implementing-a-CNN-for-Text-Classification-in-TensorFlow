@@ -5,15 +5,15 @@
  
 ## Requirements:
 
-> tensorflow
+- tensorflow
 
-> numpy
+- numpy
 
-> os
+- os
 
-> time
+- time
 
-> datetime
+- datetime
 
-> Image
+- Image
  
